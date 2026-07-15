@@ -51,6 +51,6 @@ Penelitian ini membandingkan struktur kristal, struktur pita energi (*Band Struc
 
 ## 👨‍🔬 Penulis
 **Muhamad Habbiebie Robbi** | Program Studi Fisika  
-[Universitas Negeri Jakarta]  
+Universitas Negeri Jakarta  
 
 Repositori ini didedikasikan untuk menjunjung tinggi transparansi data riset (Open Science) serta sebagai prasyarat pemenuhan bagian Lampiran pada Naskah Skripsi.
