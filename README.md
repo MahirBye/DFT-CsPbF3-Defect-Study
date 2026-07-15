@@ -48,8 +48,3 @@ Penelitian ini membandingkan struktur kristal, struktur pita energi (*Band Struc
     ├── cspbf3_relaxed.cif            # CIF hasil optimasi vc-relax
     └── cspbf3_VF_2x2x2.cif           # CIF fasa cacat dari VESTA
 
-## 👨‍🔬 Penulis
-**Muhamad Habbiebie Robbi** | Program Studi Fisika  
-[Universitas Negeri Jakarta]  
-
-Repositori ini didedikasikan untuk menjunjung tinggi transparansi data riset (Open Science) serta sebagai prasyarat pemenuhan bagian Lampiran pada Naskah Skripsi.
