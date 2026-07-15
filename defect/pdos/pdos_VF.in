@@ -1,0 +1,10 @@
+&PROJWFC
+    prefix = 'cspbf3_VF',
+    outdir = '../../tmp/',
+    filpdos = 'cspbf3_VF.pdos',
+    Emin = -10.0,
+    Emax = 12.0,
+    DeltaE = 0.01,
+    degauss = 0.03,
+    ngauss = 0,
+/
