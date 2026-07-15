@@ -1,6 +1,6 @@
 # DFT-CsPbF3-Defect-Study
 
-# Studi Komputasi First-Principles: Sifat Elektronik CsPbF3 dan Cacat Vakansi Fluorin (VF)
+# Studi Komputasi First-Principles: Sifat Elektronik CsPbF3 dan Cacat _Vacancy_ Fluorin (VF)
 
 Repositori ini memuat seluruh data komputasi *Density Functional Theory* (DFT) dan skrip pemrosesan data (Python) yang digunakan dalam penelitian tugas akhir/skripsi mengenai evaluasi sifat elektronik material perovskit halida anorganik $CsPbF_3$.
 
@@ -9,7 +9,7 @@ Penelitian ini membandingkan struktur kristal, struktur pita energi (*Band Struc
 ## 🛠️ Perangkat Lunak yang Digunakan
 * **Quantum ESPRESSO (QE):** Digunakan untuk seluruh tahap kalkulasi (Relaksasi, SCF, Bands, DOS, dan PDOS) dengan fungsional pertukaran-korelasi GGA-PBE.
 * **VESTA:** Digunakan untuk memodelkan *supercell*, relaksasi visual, dan mengekstrak koordinat fraksional atom.
-* **Python 3.x:** Digunakan untuk mengolah dan memvisualisasikan data keluaran komputasi.
+* **Python 3:** Digunakan untuk mengolah dan memvisualisasikan data keluaran komputasi.
 
 ## 📂 Struktur Repositori
 
@@ -47,3 +47,9 @@ Penelitian ini membandingkan struktur kristal, struktur pita energi (*Band Struc
     ├── cspbf3_initial.cif            # CIF awal CsPbF3
     ├── cspbf3_relaxed.cif            # CIF hasil optimasi vc-relax
     └── cspbf3_VF_2x2x2.cif           # CIF fasa cacat dari VESTA
+
+## 👨‍🔬 Penulis
+**Muhamad Habbiebie Robbi** | Program Studi Fisika  
+[Universitas Negeri Jakarta]  
+
+Repositori ini didedikasikan untuk menjunjung tinggi transparansi data riset (Open Science) serta sebagai prasyarat pemenuhan bagian Lampiran pada Naskah Skripsi.
